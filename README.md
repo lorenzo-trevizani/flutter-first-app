@@ -1,6 +1,6 @@
-# first_app
+# First App
 
-A new Flutter project.
+A new Flutter project that introduces Flutter core concepts by implementing a rolling dice app.
 
 ## Getting Started
 
