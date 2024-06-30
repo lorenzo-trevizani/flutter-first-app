@@ -1,4 +1,4 @@
-# First App
+# First App - Rolling Dice
 
 A new Flutter project that introduces Flutter core concepts by implementing a rolling dice app.
 
